@@ -1,2 +1,3 @@
 My first lab
 hi git and git hub
+iam in lab1
